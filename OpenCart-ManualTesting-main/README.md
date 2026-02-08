@@ -1,35 +1,154 @@
-# Manual Testing OpenCart WebApp
-This project is dedicated to manual testing of the OpenCart web application. It includes test cases, test plans, and documentation to guide manual testers in evaluating the functionality and usability of OpenCart.
+🛒 OpenCart E-Commerce Website – Manual Testing Project
+📌 Project Overview
 
-## Features:
-1. A comprehensive set of manual test cases.
-2. Test plans and documentation for organized testing.
-3. Instructions for performing manual tests on OpenCart.
+This project demonstrates end-to-end Manual Testing of an OpenCart based E-Commerce Web Application.
+The objective of this project is to validate core e-commerce functionalities such as user registration, login, product browsing, cart operations, checkout flow and order processing using a structured software testing approach.
 
+This repository contains complete testing documentation including:
 
-## Getting Started:
+Test Plan
 
-1. Clone this repository.
-2. Review the provided test cases and test plans.
-3. Follow the documented steps to execute manual tests on OpenCart.
+Test Scenarios
 
+Test Cases
 
+Test Execution Results
 
-## Project Structure:
+Bug Report
 
-| File Name | Description |
-|--------------|-------------|
-| FRS(OpenCart).pdf   | This PDF likely contains the Functional Requirements Specification (FRS) document for OpenCart, outlining the functional and non-functional requirements of the software. |
-| TestPlan(OpenCart).pdf   | This PDF is likely a Test Plan document for OpenCart, providing an overview of the testing strategy, objectives, scope, and schedule for testing the software. | 
-| TestScenarios(OpenCart).xlsx | This Excel file likely contains test scenarios for OpenCart, which describe various situations and conditions that need to be tested to ensure the software functions correctly. | 
-| TestCases(OpenCart).xlsx | This Excel file probably contains a set of test cases specifically related to web registration functionality in OpenCart. It likely includes detailed steps, expected results, and test data. |
-| TestExecutions(OpenCart).xlsx | This Excel file probably contains a set of test executions specifically related to web registration functionality in OpenCart. It likely includes detailed steps, test data, expected results, actual results, priority, test results, and comments. |
-| RTM(Opencart).xlsx | This Excel file probably contains the Requirement Traceability Matrix document related to web registration functionality in OpenCart. It likely includes requirement ID, requirement description, test scenario ID and description, test cases, test result, defect ID, and also the summary report. |
-| BugReport(OpenCart).xlsx | This Excel file is likely used for tracking and documenting software bugs and issues found during testing. It may include details such as bug descriptions, severity, status, and steps to reproduce. |
+Requirement Traceability Matrix (RTM)
 
-## Contributions:
+This project is created to showcase practical QA skills for entry-level Software Testing / QA Engineer roles.
 
-Contributions are welcome! Feel free to submit issues, enhancements, or suggestions to improve the manual testing process for OpenCart.
-Happy Manual Testing! 🚀
+🎯 Application Under Test
 
+Application Type: E-Commerce Web Application
+Platform: OpenCart
+Testing Type: Manual Functional Testing
 
+🧪 Scope of Testing
+
+The following major modules were covered:
+
+User Registration
+
+Login & Logout
+
+Product Search & Product Listing
+
+Product Details Page
+
+Add to Cart
+
+Shopping Cart
+
+Checkout Process
+
+Order Placement
+
+Basic UI and Validation checks
+
+🗂 Project Artifacts
+File Name	Description
+FRS(OpenCart).pdf	Functional Requirements Specification for the application
+TestPlan(OpenCart).pdf	Test strategy, scope, approach, risks and entry/exit criteria
+TestScenarios(OpenCart).xlsx	High-level business scenarios derived from requirements
+TestCases(OpenCart).xlsx	Detailed test cases with steps, expected result and test data
+TestExecutions(OpenCart).xlsx	Execution status with actual results and pass/fail
+RTM(OpenCart).xlsx	Requirement Traceability Matrix mapping requirements to scenarios and test cases
+BugReport(OpenCart).xlsx	Defect log with severity, priority, steps to reproduce and status
+📋 Test Documentation Flow Followed
+
+FRS →
+Test Scenarios →
+Test Cases →
+Test Execution →
+Bug Reporting →
+RTM →
+Test Summary
+
+This project follows a real-time industry-standard testing lifecycle.
+
+🐞 Defect Management
+
+Defects were logged with:
+
+Defect ID
+
+Summary
+
+Detailed steps to reproduce
+
+Expected vs Actual result
+
+Severity & Priority
+
+Current status
+
+🔗 Traceability
+
+RTM is prepared to ensure:
+
+Every requirement is covered by at least one test scenario
+
+Every test case is mapped to its respective requirement
+
+Defects are linked to failed test cases
+
+🛠 Tools Used
+
+Microsoft Excel – Test cases, scenarios, execution, RTM, defect tracking
+
+PDF documentation – FRS and Test Plan
+
+Browser – Functional testing
+
+🧠 Skills Demonstrated
+
+Requirement analysis
+
+Test scenario design
+
+Test case writing
+
+Test execution and reporting
+
+Defect lifecycle management
+
+RTM preparation
+
+Manual testing process understanding
+
+👨‍💻 How to Use This Repository
+
+Download or clone the repository
+
+Start with FRS(OpenCart).pdf to understand requirements
+
+Refer to TestScenarios(OpenCart).xlsx
+
+Execute test cases from TestCases(OpenCart).xlsx
+
+Review results in TestExecutions(OpenCart).xlsx
+
+Check mapped coverage in RTM(OpenCart).xlsx
+
+Review defects in BugReport(OpenCart).xlsx
+
+⭐ Project Highlights
+
+Complete manual testing project for an e-commerce domain
+
+Proper documentation flow followed
+
+Realistic test scenarios and test data
+
+Defect reporting with industry format
+
+Requirement to test case traceability
+
+👤 Author
+
+Vishal Wakchaure
+Fresher – Software Tester / QA Engineer
+Domain: Manual Testing | Web Application Testing
