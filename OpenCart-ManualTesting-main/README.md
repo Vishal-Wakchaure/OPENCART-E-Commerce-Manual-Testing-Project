@@ -150,5 +150,5 @@ Requirement to test case traceability
 👤 Author
 
 Vishal Wakchaure
-Fresher – Software Tester / QA Engineer
+Software Tester / QA Engineer
 Domain: Manual Testing | Web Application Testing
