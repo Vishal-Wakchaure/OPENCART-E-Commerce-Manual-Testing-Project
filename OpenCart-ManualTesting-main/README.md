@@ -150,5 +150,10 @@ Requirement to test case traceability
 👤 Author
 
 Vishal Wakchaure
+<<<<<<< HEAD
 Fresher – Software Tester / QA Engineer
 Domain: Manual Testing | Web Application Testing
+=======
+Software Tester / QA Engineer
+Domain: Manual Testing | Web Application Testing
+>>>>>>> 9a94b8e92510849bd6016c079004353a3b179732
